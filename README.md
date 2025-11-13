@@ -56,7 +56,7 @@ The above script should work on most platforms, if it doesn't work for you, you 
 Run PocketBase:
 
 ```bash
-pnpm pb:server
+pnpm pb:serve
 ```
 
 ### PocketBase typings
